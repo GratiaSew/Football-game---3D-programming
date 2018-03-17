@@ -1,0 +1,62 @@
+﻿  w1654554_Football_cw02.cpp
+w1654554_Football_cw02.cpp(195): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+w1654554_Football_cw02.cpp(195): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(585): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+w1654554_Football_cw02.cpp(590): warning C4305: '=': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(615): warning C4305: '=': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(639): warning C4305: '=': truncation from 'double' to 'float'
+w1654554_Football_cw02.cpp(646): warning C4305: '=': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(673): warning C4305: '=': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(715): warning C4018: '<': signed/unsigned mismatch
+w1654554_Football_cw02.cpp(745): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(746): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(747): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(748): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(750): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(752): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(753): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(754): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(755): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(761): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(762): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(763): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(764): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(766): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(768): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(769): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(770): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(771): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(775): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(777): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(778): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(779): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(780): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(783): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(784): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(785): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(787): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(788): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(789): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(793): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(794): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(795): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(796): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(799): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(800): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(801): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(816): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(819): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(822): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(825): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(832): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(835): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(838): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(841): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+w1654554_Football_cw02.cpp(1153): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+w1654554_Football_cw02.cpp(1257): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+w1654554_Football_cw02.cpp(1262): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+w1654554_Football_cw02.cpp(1270): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+w1654554_Football_cw02.cpp(1271): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+w1654554_Football_cw02.cpp(1272): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+w1654554_Football_cw02.obj : warning LNK4248: unresolved typeref token (0100001B) for 'GLUquadric'; image may not run
+  w1654554_Football_cw02.vcxproj -> C:\Users\Gratia Gamage\source\repos\w1654554_Football_cw02\Debug\w1654554_Football_cw02.exe
